@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/bvws68c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/emeraldsplash47/CodePath_Anroid_Application/blob/main/record.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
