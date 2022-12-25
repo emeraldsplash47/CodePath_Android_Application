@@ -1,0 +1,8 @@
+<resources>
+    <string name="button">Say Hello !</string>
+    <string name="hello">Hello!</string>
+    <string name="text">I am Tahsun, and I love learning Android Development</string>
+    <string name="text2">Its nice to meet you !!</string>
+    <string name="desc">An Image displaying an avatar</string>
+    <string name="app_name">CodePathApplication</string>\
+</resources>
